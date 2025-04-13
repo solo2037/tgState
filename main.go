@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"os"
 
-	"csz.net/tgstate/conf"
-	"csz.net/tgstate/control"
-	"csz.net/tgstate/utils"
+	"tg.server2052.dpdns.org/tgstate/conf"
+	"tg.server2052.dpdns.org/tgstate/control"
+	"tg.server2052.dpdns.org/tgstate/utils"
 )
 
 var webPort string
