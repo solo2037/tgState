@@ -12,7 +12,7 @@ else
 fi
 
 # Download and unzip
-wget "https://github.com/csznet/tgState/releases/latest/download/$File" && unzip "$File" && rm "$File"
+wget "https://github.com/solo2037/tgState/releases/latest/download/$File" && unzip "$File" && rm "$File"
 
 # Set permissions
 chmod +x tgState
