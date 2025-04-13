@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"csz.net/tgstate/conf"
+	"tg.server2052.dpdns.org/tgstate/conf"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 )
 
