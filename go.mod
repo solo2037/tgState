@@ -1,4 +1,4 @@
-module csz.net/tgstate
+module tg.server2052.dpdns.org/tgstate
 
 go 1.20
 
