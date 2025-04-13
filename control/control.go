@@ -11,9 +11,9 @@ import (
 	"strings"
 	"time"
 
-	"csz.net/tgstate/assets"
-	"csz.net/tgstate/conf"
-	"csz.net/tgstate/utils"
+	"tg.server2052.dpdns.org/tgstate/assets"
+	"tg.server2052.dpdns.org/tgstate/conf"
+	"tg.server2052.dpdns.org/tgstate/utils"
 )
 
 // UploadImageAPI 上传图片api
