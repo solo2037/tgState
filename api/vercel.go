@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"csz.net/tgstate/conf"
-	"csz.net/tgstate/control"
+	"tg.server2052.dpdns.org/tgstate/conf"
+	"tg.server2052.dpdns.org/tgstate/control"
 )
 
 func Vercel(w http.ResponseWriter, r *http.Request) {
